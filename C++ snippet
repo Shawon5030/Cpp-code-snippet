@@ -1,0 +1,27 @@
+{
+	"1": {
+  "prefix": "cpp",
+  "body": [
+    "#include <bits/stdc++.h>",
+    "using namespace std;",
+    "",
+    "int main(){",
+    "",
+    "    $0",
+    "    return 0;",
+    "}"
+  ],
+  "description": ""
+},
+	"2": {
+  "prefix": "for_each",
+  "body": [
+    "for (auto &&i :  $0v)",
+    "{",
+    "     cout<<i<< $1endl;",
+    "}",
+    
+  ],
+  "description": ""
+}
+}
